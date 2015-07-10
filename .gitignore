@@ -7,10 +7,10 @@
 /CONTRIBUTOR_LICENSE_AGREEMENT.html
 /COPYING.txt
 /Gruntfile.js
-/LICENSE.txt
-/LICENSE_AFL.txt
+/LICENSE*.txt
 /app/code/Magento
 /app/design/adminhtml/Magento
+/app/design/doc
 /app/design/frontend/Magento
 /app/etc
 /app/i18n
