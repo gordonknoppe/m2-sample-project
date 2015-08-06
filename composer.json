@@ -1,6 +1,6 @@
 {
-    "name": "company/magento-project",
-    "description": "Our eCommerce Platform for Growth",
+    "name": "magento/project-community-edition",
+    "description": "eCommerce Platform for Growth (Community Edition)",
     "type": "project",
     "version": "1.0.0-beta",
     "license": [
