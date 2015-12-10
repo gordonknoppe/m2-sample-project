@@ -50,6 +50,10 @@ atlassian*
 
 /lib
 
+/node_modules
+
+/phpserver
+
 /pub
 
 /setup
@@ -62,6 +66,6 @@ atlassian*
 
 /*.*
 
+!/.gitignore
 !/composer.json
 !/composer.lock
-!/README.md
